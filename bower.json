@@ -1,0 +1,30 @@
+{
+  "name": "commercium-lib",
+  "main": "./commercium-lib.min.js",
+  "version": "0.1.0",
+  "homepage": "http://bitcore.io",
+  "authors": [
+    "Commercium, Inc."
+  ],
+  "description": "A pure, powerful core for your commercium project.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "commercium",
+    "bitcore",
+    "btn",
+    "satoshi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "CONTRIBUTING.md",
+    "gulpfile.js",
+    "lib",
+    "index.js",
+    "karma.conf.js",
+    "npm-shrinkwrap.json",
+    "test"
+  ]
+}
